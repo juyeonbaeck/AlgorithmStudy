@@ -1,4 +1,3 @@
-#1916619백주여
 # 1번을 해보세요!
 def binary_search_iter(A, key, low, high) :
     while(low <= high) :

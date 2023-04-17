@@ -1,4 +1,3 @@
-#1916619백주연
 # 1번을 해보세요!
 def binary_search(A, key, low, high) :
     if (low <= high) : 

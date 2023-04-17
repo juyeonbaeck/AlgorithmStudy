@@ -1,4 +1,3 @@
-#1916619 백주연
 # 1번을 해보세요!
 def power(x, n) :
     if (n%2 == 0) : return power(x*x, n//2)

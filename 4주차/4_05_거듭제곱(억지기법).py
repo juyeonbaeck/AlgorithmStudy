@@ -1,4 +1,3 @@
-#1916619백주연
 # 1번을 해보세요!
 def slow_power(x, n) :
     result = 1.0
